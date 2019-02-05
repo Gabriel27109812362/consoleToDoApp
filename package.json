@@ -1,0 +1,16 @@
+{
+  "name": "consoletodoapp",
+  "version": "1.0.0",
+  "description": "simple todo list application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "todo",
+    "list",
+    "nodejs"
+  ],
+  "author": "Gabriel Opolski",
+  "license": "ISC"
+}
