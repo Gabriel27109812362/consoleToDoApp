@@ -1,12 +1,57 @@
 {
+  "count": 13,
   "tasks": [
-    "Kup jajka",
-    "Posprzątaj w chacie",
-    "Odrób lekcje",
-    "Zrób obiad",
-    "Wynieś śmieci",
-    "Sprzątnij samochód",
-    "Napisz maila do szefa",
-    "Zrób aplikację TODO dla Piotrka :-)"
+    {
+      "number": 1,
+      "message": "Kup jajka"
+    },
+    {
+      "number": 2,
+      "message": "Posprzątaj w chacie"
+    },
+    {
+      "number": 3,
+      "message": "Odrób lekcje"
+    },
+    {
+      "number": 4,
+      "message": "Zrób obiad"
+    },
+    {
+      "number": 5,
+      "message": "Wynieś śmieci"
+    },
+    {
+      "number": 6,
+      "message": "Posprzątaj w samochodzie"
+    },
+    {
+      "number": 7,
+      "message": "Napisz maila do szefa"
+    },
+    {
+      "number": 8,
+      "message": "Zrób aplikację TODO dla Piotrka :-)"
+    },
+    {
+      "number": 9,
+      "message": "Wyczsc buty"
+    },
+    {
+      "number": 10,
+      "message": "Oddaj samochod do mechanika"
+    },
+    {
+      "number": 11,
+      "message": "Oddaj fartucha"
+    },
+    {
+      "number": 12,
+      "message": "Kup mleko"
+    },
+    {
+      "number": 13,
+      "message": "Napraw Kompa"
+    }
   ]
 }

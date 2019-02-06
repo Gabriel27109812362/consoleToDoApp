@@ -12,5 +12,8 @@
     "nodejs"
   ],
   "author": "Gabriel Opolski",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
 }
