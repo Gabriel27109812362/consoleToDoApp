@@ -50,4 +50,6 @@ if(del <= allListParse.count) {
    } catch(error) {
       error.message();
    }
+}else{
+   console.log(`You have only ${allListParse.count} tasks`);
 }
